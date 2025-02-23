@@ -3,6 +3,6 @@ this repository includes:
 
 moving function on google maps,
 
-pretrained icon detection model by yolov8
+pretrained icon yolov8 map icon detection model which trained by me
 
 scrap map data by location
