@@ -1,4 +1,4 @@
-# Google Map Scraper with AI
+# Google Map Scraper with yolov8 model
 this repository includes:
 
 moving function on google maps,
